@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "05- Assets",
+  "userIgnoreFilters": [
+    "05 - Templates/",
+    "06 - Templates/",
+    "00 - Home/"
+  ],
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false
+}

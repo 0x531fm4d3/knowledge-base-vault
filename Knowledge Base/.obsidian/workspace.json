@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "15a4514c21d5382b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d5b3691b0d29c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6214521ebe669ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Home/Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cbde2e79a84f900",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd84e4af2fb4dd9b",
+        "type": "tabs",
+        "dimension": 74.42455242966751,
+        "children": [
+          {
+            "id": "6110cd2240d3b199",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f571af0047bb4124",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efd7b9019cae722c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aef12a61ce8cd22b",
+        "type": "tabs",
+        "dimension": 25.575447570332482,
+        "children": [
+          {
+            "id": "0f3b42aaaebdb006",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "right": {
+    "id": "4e44fbcb0376f014",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e11d6499e4d0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171378dcb5698e82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "da925408f3a768a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1deea5ec3fac261e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "972af3e44214aeb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6214521ebe669ee8",
+  "lastOpenFiles": [
+    "06 - Templates/template_system.md",
+    "04 - Systems/system_2024-12-22 - Powershell.md",
+    "03 - Technical Explanations/technical_explanation_2025-03-16 - initializing and accessing structure members.md",
+    "03 - Technical Explanations/technical_explanation_2025-04-22 - zero out a structure.md",
+    "03 - Technical Explanations/technical_explanation_2025-05-07 - AES-CBC encryption in C - Bcrypt Library.md",
+    "03 - Technical Explanations/technical_explanation_2025-04-17 - dump resource to file.md",
+    "03 - Technical Explanations/technical_explanation_2025-03-23 - checking if NTAPI calls were succesfull via NSTATUS.md",
+    "03 - Technical Explanations/technical_explanation_2025-03-05 - threat_hunting - find hidden registry keys or values.md",
+    "03 - Technical Explanations/technical_explanation_2024-12-23 - powershell exporting data.md",
+    "03 - Technical Explanations/technical_explanation_2024-12-22 - powershell type casting.md",
+    "03 - Technical Explanations/technical_explanation_2024-12-22 - powershell operators.md",
+    "02 - Terms/term_2025-01-07 - memory manager.md",
+    "02 - Terms/term_2025-01-04 - input-output manager.md",
+    "02 - Terms/term_2025-01-02 - handle duplication.md",
+    "02 - Terms/term_2025-01-02 - kernel object.md",
+    "02 - Terms/term_2024-12-27 - system calls.md",
+    "02 - Terms/term_2024-12-24 - SDDL.md",
+    "02 - Terms/term_2024-12-27 - BaseNamedObjects.md",
+    "02 - Terms/term_2024-12-31 - object handles.md",
+    "02 - Terms/term_2024-12-27 - object manager namespace.md",
+    "02 - Terms/term_2025-01-04 - process and thread manager.md",
+    "02 - Terms/term_2025-01-01 - access mask.md",
+    "02 - Terms/term_2024-12-27 - NTSTATUS codes.md",
+    "02 - Terms/term_2024-12-24 - SID.md",
+    "03 - Technical Explanations/technical_explanation_2024-12-22 - powershell controlling output display.md",
+    "03 - Technical Explanations/technical_explanation_2025-04-01 - c project preperations in visual studio.md",
+    "05- Assets/Untitled/desktop.ini",
+    "00 - Home/desktop.ini",
+    "desktop.ini",
+    "01 - Origins/desktop.ini",
+    "02 - Terms/desktop.ini",
+    "03 - Technical Explanations/desktop.ini",
+    "04 - Systems/desktop.ini",
+    "06 - Templates/desktop.ini",
+    "05- Assets/desktop.ini",
+    "05- Assets/Pasted image 20250507081553.png",
+    "05- Assets/Pasted image 20250507072934.png",
+    "05- Assets/Pasted image 20250506084923.png",
+    "05- Assets/Pasted image 20250506083726.png",
+    "05- Assets/Pasted image 20250506082902.png",
+    "05- Assets/Pasted image 20250506082849.png",
+    "05- Assets/Pasted image 20250506081246.png",
+    "05- Assets/Pasted image 20250506080451.png",
+    "05- Assets/Chain_of_trust_v2.svg",
+    "05- Assets/Untitled/Pasted image 20250428162043.png",
+    "05- Assets/Untitled"
+  ]
+}
