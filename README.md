@@ -7,7 +7,8 @@ Check out my [blog](https://0x531fm4d3-blog.pages.dev/miscs/effective-notes-with
 
 1. Download [Obsidian](https://obsidian.md/download).  
 2. After running the client for the first time, choose "Open folder as vault".
-3. Some hotkeys (feel free to change/add):    
+3. choose the folder "Knowledge Base" and and you're good to go.
+4. Some hotkeys (feel free to change/add):    
     - ```CTRL + Q```-> create a new note based on the Vault's templates.  
     - ``` ALT + up/down``` -> move selected row/s up or down.
     - ```CTRL + Page down``` -> go to next tab.
