@@ -1,7 +1,7 @@
 # Knowledge base vault  
 
 This is my Obsidian Vault setup, which I’ve found ideal for taking notes while studying.  
-Check out my [blog](https://0x531fm4d3-blog.pages.dev/Misc/effective-notes-with-obsidian) for a more in-depth explanation of how everything works.
+Check out my [blog](https://0x531fm4d3-blog.pages.dev/miscs/effective-notes-with-obsidian) for a more in-depth explanation of how everything works.
 
 # Quick start  
 
